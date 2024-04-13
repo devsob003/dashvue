@@ -14,7 +14,7 @@ The project is a web application called DASHVUE is designed to streamline the pr
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/dashvue.git`
+1. Clone the repository: `https://github.com/devsob003/dashvue.git`
 2. Navigate to the project directory: `cd dashvue`
 3. Install dependencies: `npm install`
 
